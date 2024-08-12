@@ -10,5 +10,4 @@ sales   <br>
 menu   <br>
 members  <br>
 
-![image](https://github.com/user-attachments/assets/311dea0c-b195-4ac2-b14d-7c0c503e3f76) 
-
+![image](https://github.com/user-attachments/assets/7340e13b-6097-47a2-abd8-fcf71b233ea5)
